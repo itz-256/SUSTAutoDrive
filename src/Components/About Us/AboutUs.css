@@ -1,0 +1,17 @@
+.Acontainer {
+    margin-top: 76px;
+    margin-left: 10%;
+    margin-right: 10%;
+    color: rgb(193, 205, 205);
+}
+
+.AboutUs {
+    margin-top: 37px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    width: 100%;
+}

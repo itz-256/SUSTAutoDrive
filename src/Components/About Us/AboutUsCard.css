@@ -1,0 +1,33 @@
+.Ccontainer {
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    background: linear-gradient(180deg, #576cbc, #132a53);
+    box-shadow: 0 16px 14px 0 #04152d;
+    padding: 18px 24px;
+    max-width: 250px;
+}
+
+.Cimg {
+    margin-bottom: 26px;
+    width: 200px;
+    height: 220px;
+    border-radius: 10px;
+}
+
+.Ctitle {
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.Cdescription {
+    margin-top: 6px;
+    font-size: 18px;
+    font-weight: 300;
+}
+
+.Cteam {
+    margin-top: 6px;
+    font-size: 18px;
+    font-weight: 500;
+}

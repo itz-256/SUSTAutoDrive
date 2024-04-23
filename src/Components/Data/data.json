@@ -1,0 +1,116 @@
+[
+    {
+        "title": "Abul Bashar Raj",
+        "imageSrc": "src/assets/raj.png",
+        "description": "Dept. of Mechanical Engineering,SUST",
+        "team": " | Navigation & Control Team | Artificial Intelligence Team |"
+    },
+    {
+        "title": "Ad-Deen Mahbub",
+        "imageSrc": "src/assets/deen.png",
+        "description": "Dept. of Electrical & Electronics Engineering,SUST",
+        "team": "| Navigation & Control Team | Artificial Intelligence Team |Electrical Team | "
+    },
+    {
+        "title": "Shahriar Zaman Rafat",
+        "imageSrc": "src/assets/rafat.png",
+        "description": "Dept. of Mechanical Engineering,SUST",
+        "team": "| Website Team | Developer of This WebSite | "
+    },
+    {
+        "title": "Parvez Mosharaf",
+        "imageSrc": "src/assets/parvez.png",
+        "description": "Dept. of Mechanical Engineering,SUST",
+        "team": "| Website Team | "
+    },
+    {
+        "title": "Kamrul Hasan",
+        "imageSrc": "src/assets/kamrul.png",
+        "description": "Dept. of Mechanical Engineering,SUST",
+        "team": "| Mechanical & Manufacture Team |"
+    },
+    {
+        "title": "Redwan Hassan",
+        "imageSrc": "src/assets/redwan.png",
+        "description": "Dept. of Software Engineering,SUST",
+        "team": "| Navigation & Control Team |"
+    },
+    {
+        "title": "Nafi Ullah Shafin",
+        "imageSrc": "src/assets/shafin.png",
+        "description": "Dept. of Software Engineering,SUST",
+        "team": "| Artificial Intelligence Team |"
+    },
+    {
+        "title": "Saiful Islam",
+        "imageSrc": "src/assets/saiful.png",
+        "description": "Dept. of Statistics,SUST",
+        "team": "| Artificial Intelligence Team | "
+    },
+    {
+        "title": "Firoz Mahmud  Shamim",
+        "imageSrc": "src/assets/shamim.png",
+        "description": "Dept. of Mechanical Engineering,SUST",
+        "team": "| Artificial Intelligence Team | "
+    },
+    {
+        "title": "Sakhawat Hossan Robel",
+        "imageSrc": "src/assets/sakawat.png",
+        "description": "Dept. of Mechanical Engineering,SUST",
+        "team": "| Mechanical & Manufacture Team |"
+    },
+    {
+        "title": "Taj Ahmad Turjo",
+        "imageSrc": "src/assets/turjo.png",
+        "description": "Dept. of Industrial & Production Engineering,SUST",
+        "team": "| Mechanical & Manufacture Team | "
+    },
+    {
+        "title": "Fardeen Mosharraf",
+        "imageSrc": "src/assets/fardeen.png",
+        "description": "Dept. of Electrical & Electronics Engineering,SUST",
+        "team": "| Electrical Team |"
+    },
+    {
+        "title": "Rj Avro Biswas",
+        "imageSrc": "src/assets/avro.png",
+        "description": "Dept. of Electrical & Electronics Engineering,SUST",
+        "team": "| Electrical Team | "
+    },
+    {
+        "title": "Nripendro Biswas",
+        "imageSrc": "src/assets/nipu.png",
+        "description": "Dept. of Electrical & Electronics Engineering,SUST",
+        "team": "| Electrical Team |"
+    },
+    {
+        "title": "Obaidul Islam",
+        "imageSrc": "src/assets/milu.png",
+        "description": "Dept. of Civil & Enviromental Engineering,SUST",
+        "team": "| 3D Map & Geographical Team |"
+    },
+    {
+        "title": "Sadman Sakib",
+        "imageSrc": "src/assets/swaccho.png",
+        "description": "Dept. of Mechanical Engineering,SUST",
+        "team": "| Media & Sponsor Team |"
+    },
+    {
+        "title": "Shafi Abdullah",
+        "imageSrc": "src/assets/nafi.png",
+        "description": "Dept. of Industrial & Production Engineering,SUST",
+        "team": "| Media & Sponsor Team |"
+    },
+    {
+        "title": "Abidur Rahman ",
+        "imageSrc": "src/assets/Abid.png",
+        "description": "Dept. of Mechanical Engineering,SUST",
+        "team": "| Mechanical & Manufacture Team |"
+    },
+    {
+        "title": "Md. Mahbub",
+        "imageSrc": "src/assets/mahbub.png",
+        "description": "Dept. of Mechanical Engineering,SUST",
+        "team": "| Website Team |  "
+    }
+]
